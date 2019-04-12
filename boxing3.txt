@@ -1,1 +1,2 @@
-This is how i learn Git and how to branch
+This is how i learn Git and how to branch.
+i just fork this so i can commit it
